@@ -1,3 +1,5 @@
+github.com/codemodus/kace v0.5.1 h1:4OCsBlE2c/rSJo375ggfnucv9eRzge/U5LrrOZd47HA=
+github.com/codemodus/kace v0.5.1/go.mod h1:coddaHoX1ku1YFSe4Ip0mL9kQjJvKkzb9CfIdG1YR04=
 github.com/nathan-osman/go-sunrise v0.0.0-20201029015502-9a83cd1a5746 h1:5+ym5FPmJFiuIO35zuqFwsYYO1q99KYHd0ug6bzc9zs=
 github.com/nathan-osman/go-sunrise v0.0.0-20201029015502-9a83cd1a5746/go.mod h1:kCE4+NvReDuwiJGk03l6QONGmYy805GQP3xGcCm8cBg=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
